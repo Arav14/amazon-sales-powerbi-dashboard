@@ -3,8 +3,6 @@
 Interactive Power BI dashboard analyzing 20,000 Amazon India sales orders
 (INR 1.16 Cr in sales) across 9 product categories.
 
-![Dashboard](screenshots/dashboard.png)
-
 ## Tools
 Power BI Desktop, Power Query, Microsoft Excel
 
